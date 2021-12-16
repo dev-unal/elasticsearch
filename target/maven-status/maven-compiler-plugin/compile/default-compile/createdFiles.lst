@@ -1,0 +1,9 @@
+com\uk\elasticsearch\ElasticsearchApplication.class
+com\uk\elasticsearch\conf\ElasticSearchConfig.class
+com\uk\elasticsearch\exception\ExceptionHelper.class
+com\uk\elasticsearch\exception\HouseNotFoundException.class
+com\uk\elasticsearch\model\House.class
+com\uk\elasticsearch\repo\HouseRepo.class
+com\uk\elasticsearch\service\HouseService.class
+com\uk\elasticsearch\api\HouseController.class
+com\uk\elasticsearch\model\House$HouseBuilder.class
